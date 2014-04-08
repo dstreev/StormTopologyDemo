@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>com.hortonworks.pso.storm.demo</artifactId>
+        <groupId>com.hortonworks.pso.storm</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <name>HWX-PSO :: Storm :: Sentiment Scorer</name>
+    <url>http://www.hortonworks.com</url>
+
+    <groupId>com.hortonworks.pso.storm.demo</groupId>
+    <artifactId>demo.sentiment.scorer</artifactId>
+
+</project>
